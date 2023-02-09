@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xDF8859ac9dD74665548f2EE446BF8CE384f7B1bc",
-  "SCAN_LINK": "https://etherscan.io/address/0xDF8859ac9dD74665548f2EE446BF8CE384f7B1bc#writeContract",
+  "CONTRACT_ADDRESS": "0x4F68454bc3715ca9a9d3E5e07ba81e1d38c8b4d9",
+  "SCAN_LINK": "https://cronoscan.com/address/0x4F68454bc3715ca9a9d3E5e07ba81e1d38c8b4d9",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
   },
-  "NFT_NAME": "JesusCrys",
+  "NFT_NAME": "JesusCro",
   "SYMBOL": "Jesus",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 2000000000000000,
-  "DISPLAY_COST": 0.002,
+  "WEI_COST": 505000000000000,
+  "DISPLAY_COST": 10.00,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/jesuscrys",
+  "MARKETPLACE": "CroSea",
+  "MARKETPLACE_LINK": "https://crosea.io",
   "SHOW_BACKGROUND": true
 }
